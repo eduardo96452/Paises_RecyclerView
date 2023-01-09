@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paises_RecyclerView</string>
+    <string name="nombre">Nombre</string>
+    <string name="capital">Capital</string>
+    <string name="todo">TODO</string>
+    <string name="paises_del_mundo">Paises del Mundo</string>
+</resources>
